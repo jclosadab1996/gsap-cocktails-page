@@ -1,1 +1,1 @@
-# gsap-cocktails-page
+# Ultimate GSAP Workshop Starter
