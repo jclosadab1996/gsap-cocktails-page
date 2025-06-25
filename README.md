@@ -1,56 +1,46 @@
 <div align="center">
-    <a href="https://gsap-crash-course.vercel.app" target="_blank">
+    <a href="#" target="_blank">
       <img src="public/preview.png" alt="Project Banner">
     </a>
-  <h3 align="center">GSAP Workshop (Starter)</h3>
+  <h3 align="center">GSAP Cocktails Animations Workshop</h3>
 </div>
 
-##  <br /> 📋 <a name="table">Table of Contents</a>
+##  <br /> 📋 <a name="table">Tabla de Contenidos</a>
 
-- ✨ [Introduction](#introduction)
-- ⚙️ [Tech Stack](#tech-stack)
-- 🚀 [Quick Start](#quick-start)
+- ✨ [Introducción](#introducción)
+- ⚙️ [Stack Tecnológico](#stack-tecnológico)
+- 🚀 [Inicio Rápido](#inicio-rápido)
 
+##  <br /> <a name="introducción">✨ Introducción</a>
 
-##  <br /> <a name="introduction">✨ Introduction</a>
+Este proyecto es un taller práctico que muestra animaciones primarias utilizando GSAP (GreenSock Animation Platform). GSAP es una biblioteca de JavaScript independiente de frameworks, ideal para crear animaciones fluidas y atractivas en la web.
 
-Simple GSAP workshop showcasing various primary animations. GSAP (GreenSock Animation Platform) is a framework-agnostic JavaScript animation library used to create fluid and engaging animations.
+##  <br /> <a name="stack-tecnológico">⚙️ Stack Tecnológico</a>
 
+- [**React**](https://react.dev/reference/react): Biblioteca popular de JavaScript para construir interfaces de usuario, especialmente aplicaciones de una sola página donde los datos cambian con el tiempo. Su arquitectura basada en componentes permite crear interfaces reutilizables y mantener el código de manera eficiente.
 
-##  <br /> <a name="tech-stack">⚙️ Tech Stack</a>
+- [**GSAP**](https://gsap.com/resources/): Potente biblioteca de animación en JavaScript para crear animaciones de alto rendimiento. Permite animar elementos HTML con gran suavidad y precisión, facilitando la creación de experiencias web atractivas y modernas.
 
-- [**React**](https://react.dev/reference/react) is a popular JavaScript library for building user interfaces, particularly single-page applications where data changes over time. React's component-based architecture allows developers to create reusable UI components, making development more efficient and the codebase easier to maintain. 
+- [**Vite**](https://vitejs.dev/guide/): Herramienta moderna de construcción frontend, conocida por su rapidez en la importación de módulos ES, empaquetado eficiente y arranque rápido del servidor de desarrollo. Optimiza el flujo de trabajo y el rendimiento en comparación con herramientas tradicionales.
 
-- [**GSAP**](https://gsap.com/resources/) (GreenSock Animation Platform) is a powerful JavaScript library for creating high-performance animations. It excels in animating HTML elements with smoothness and precision, making it ideal for enhancing user interfaces and web experiences. GSAP's robust API allows developers to create complex animations easily, leveraging timelines and plugins for advanced control and customization. Its efficient rendering engine ensures animations run smoothly across different browsers and devices, providing a seamless user experience.
+## <br /> <a name="inicio-rápido">🚀 Inicio Rápido</a>
 
-- [**Vite**](https://vitejs.dev/guide/) is a modern frontend build tool known for fast ES Module imports, efficient bundling, and quick development server startup times. It supports frameworks like Vue.js and React, optimizing workflow and performance compared to traditional bundlers.
+Sigue estos pasos para configurar el proyecto localmente en tu máquina.
 
+<br/>**Requisitos Previos**
 
-## <br /> <a name="quick-start">🚀 Quick Start</a>
-
-
-Follow these steps to set up the project locally on your machine.
-
-
-<br/>**Prerequisites**
-
-
-Make sure you have the following installed on your machine:
-
+Asegúrate de tener instalado lo siguiente:
 
 - [Git](https://git-scm.com/)
 - [Node.js](https://nodejs.org/en)
 - [npm](https://www.npmjs.com/) (Node Package Manager)
 
-
-<br/>**Cloning the Repository**
-
+<br/>**Clonar el Repositorio**
 
 ```bash
-git clone https://github.com/JavaScript-Mastery-Pro/gsap-cc-starter.git
-cd gsap-cc-starter
+git clone https://github.com/tu-usuario/gsap-cocktails-page.git
+cd gsap-cocktails-page
 ```
-
 
 <br/>**Installation**
 
@@ -69,4 +59,3 @@ npm run dev
 ```
 
 Open [`http://localhost:5173`](http://localhost:5173) in your browser to view the project.
-
